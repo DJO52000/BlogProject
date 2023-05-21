@@ -206,6 +206,32 @@ section {
   margin-right: 2rem;
 } */
 
+.call-to-action form {
+  margin-top: 3rem;
+  display: flex;
+  gap: 3rem;
+}
+
+.call-to-action form > div {
+  flex-basis: auto;
+  flex-shrink: 1;
+  flex-grow: 1;
+}
+
+.call-to-action input {
+  width: 100%;
+  border: 0;
+}
+
+/* flex default values are:
+  flex-basis: auto;
+  flex-shrink: 1;
+  flex-grow: 0; */
+
+.call-to-action label {
+  display: block;
+}
+
 /* Homepage Styles */
 
 .intro {
