@@ -216,7 +216,7 @@ section {
   margin-top: 5rem;
 }
 
-/* Componennts */
+/* Components */
 
 .primary-header {
   background-color: var(--clr-primary-400);
@@ -242,9 +242,9 @@ section {
   justify-content:space-around;
 }
 
-.primary-nav li {
-  /* line-height: 0; in case font came with extra white space above */
-}
+/* .primary-nav li {
+  line-height: 0; in case font came with extra white space above
+} */
 
 .primary-nav a {
   color: var(--clr-neutral-200);
